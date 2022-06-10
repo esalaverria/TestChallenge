@@ -1,0 +1,135 @@
+[
+  {
+    "firstNumber": -1,
+    "secondNumber": -10,
+    "answer": -11,
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": -10,
+    "secondNumber": -10,
+    "answer": -20,
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": -10,
+    "secondNumber": -1,
+    "answer": -11,
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": 0,
+    "secondNumber": -10,
+    "answer": -10,
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": 0,
+    "secondNumber": 0,
+    "answer": 0,
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": -10,
+    "secondNumber": 0,
+    "answer": -10,
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": 1,
+    "secondNumber": 0,
+    "answer": 1,
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": 0,
+    "secondNumber": 1,
+    "answer": 1,
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": 100,
+    "secondNumber": 1,
+    "answer": 101,
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": 100,
+    "secondNumber": 100,
+    "answer": 200,
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": 1,
+    "secondNumber": 100,
+    "answer": 101,
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": -10,
+    "secondNumber": -10.5,
+    "answer": -20.5,
+    "integersOnly": "False",
+    "context": "reals"
+  },
+  {
+    "firstNumber": -10.5,
+    "secondNumber": -10,
+    "answer": -20.5,
+    "integersOnly": "False",
+    "context": "reals"
+  },
+  {
+    "firstNumber": 100,
+    "secondNumber": 1.5,
+    "answer": 101.5,
+    "integersOnly": "False",
+    "context": "reals"
+  },
+  {
+    "firstNumber": 1.5,
+    "secondNumber": 100,
+    "answer": 101.5,
+    "integersOnly": "False",
+    "context": "reals"
+  },
+  {
+    "firstNumber": -10,
+    "secondNumber": -10.5,
+    "answer": -20,
+    "integersOnly": "True",
+    "context": "reals"
+  },
+  {
+    "firstNumber": -10.5,
+    "secondNumber": -10,
+    "answer": -20,
+    "integersOnly": "True",
+    "context": "reals"
+  },
+  {
+    "firstNumber": 100,
+    "secondNumber": 1.5,
+    "answer": 101,
+    "integersOnly": "True",
+    "context": "reals"
+  },
+  {
+    "firstNumber": 1.5,
+    "secondNumber": 100,
+    "answer": 101,
+    "integersOnly": "True",
+    "context": "reals"
+  }
+]
