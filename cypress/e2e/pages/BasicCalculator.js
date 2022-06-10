@@ -29,4 +29,7 @@ export class BasicCalculator {
   calculate() {
     cy.get("#calculateButton").click();
   }
+  errorMessage() {
+    return cy.get("#errorMsgField");
+  }
 }

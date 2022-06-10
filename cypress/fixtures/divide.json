@@ -1,0 +1,132 @@
+[
+  {
+    "firstNumber": "-1",
+    "secondNumber": "10",
+    "answer": "-0.1",
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": "-10",
+    "secondNumber": "-10",
+    "answer": "1",
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": "-10",
+    "secondNumber": "-1",
+    "answer": "10",
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": "0",
+    "secondNumber": "-10",
+    "answer": "0",
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": "0",
+    "secondNumber": "0",
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": "-10",
+    "secondNumber": "0",
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": "1",
+    "secondNumber": "0",
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": "0",
+    "secondNumber": "1",
+    "answer": "0",
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": "100",
+    "secondNumber": "1",
+    "answer": "100",
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": "100",
+    "secondNumber": "100",
+    "answer": "1",
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": "1",
+    "secondNumber": "100",
+    "answer": "0.01",
+    "integersOnly": "False",
+    "context": "integers"
+  },
+  {
+    "firstNumber": "-10",
+    "secondNumber": "-10.5",
+    "answer": "0.9523809523809523",
+    "integersOnly": "False",
+    "context": "reals"
+  },
+  {
+    "firstNumber": "-10.5",
+    "secondNumber": "-10",
+    "answer": "1.05",
+    "integersOnly": "False",
+    "context": "reals"
+  },
+  {
+    "firstNumber": "100",
+    "secondNumber": "1.5",
+    "answer": "66.66666666666667",
+    "integersOnly": "False",
+    "context": "reals"
+  },
+  {
+    "firstNumber": "1.5",
+    "secondNumber": "100",
+    "answer": "0.015",
+    "integersOnly": "False",
+    "context": "reals"
+  },
+  {
+    "firstNumber": "-10",
+    "secondNumber": "-10.5",
+    "answer": "0",
+    "integersOnly": "True",
+    "context": "reals"
+  },
+  {
+    "firstNumber": "-10.5",
+    "secondNumber": "-10",
+    "answer": "1",
+    "integersOnly": "True",
+    "context": "reals"
+  },
+  {
+    "firstNumber": "100",
+    "secondNumber": "1.5",
+    "answer": "66",
+    "integersOnly": "True",
+    "context": "reals"
+  },
+  {
+    "firstNumber": "1.5",
+    "secondNumber": "100",
+    "answer": "0",
+    "integersOnly": "True",
+    "context": "reals"
+  }
+]
