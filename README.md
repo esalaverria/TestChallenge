@@ -1,6 +1,6 @@
 # Test Challenge
 
-Test Suit on [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html).
+Test Suite on [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html).
 
 Test Cases for the four basic operations (Addition, Substraction, Multiplication, Division) were created following these criteria:
 
